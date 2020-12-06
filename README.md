@@ -1,6 +1,6 @@
 # Fairgame
 
-[Installation](#Installation) | [Usage](#Usage) | [Discord](https://discord.gg/qDY2QBtAW6)  | [Troubleshooting](#Troubleshooting)
+[Installation](#Installation) | [Usage](#Usage) | [Discord](https://discord.gg/qDY2QBtAW6)  | [Troubleshooting](#Troubleshooting) | [Raspberry-Pi-Setup](#Raspberry-Pi-Setup)
 
 ## Why???
 
